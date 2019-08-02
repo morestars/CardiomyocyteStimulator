@@ -16,5 +16,6 @@ The portable stage of the cardiomyocyte stimulator allows for samples to be more
 4. Centrifuge at 2,000 G for 1 minute to get rid of the bubbles.  Bubbles may not interfere with the actual funcionality of the portable stage.
 5. Place the 35mm dish in the center of the OmniTray.
 6. Pour the PDMS around the 35mm dish while holding the the 35mm dish down to avoid movement.
-5. Heat in the oven for 30 minutes or at room temp for several hours overnight.
+5. Heat in the oven at ~85C for 30 minutes or at room temp for several hours overnight.
+ * If heating in the oven, place on aluminum foil.
 6. Remove the 35mm dish.
