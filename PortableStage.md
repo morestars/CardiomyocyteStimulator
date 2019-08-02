@@ -18,4 +18,4 @@ The portable stage of the cardiomyocyte stimulator allows for samples to be more
 6. Pour the PDMS around the 35mm dish while holding the the 35mm dish down to avoid movement.
 5. Heat in the oven at ~85C for 30 minutes or at room temp for several hours overnight.
     * If heating in the oven, place on aluminum foil.
-6. Remove the 35mm dish.
+6. Remove the 35mm dish.  Cut out the plate with an exacto knife.  Slice, don't stab.  You can also remove any PDMS that got under the 35mm dish.
